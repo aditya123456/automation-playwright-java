@@ -25,7 +25,7 @@ This guide outlines the steps to set up a test automation project using Java, Ma
 1. Open a terminal or command prompt.
 2. Clone the Git project using the command:
 
-git clone https://github.com/QATA-Testers/dta-sdet-aditya.git
+git clone https://github.com/aditya123456/automation-playwright-java.git
 3. Navigate to the cloned project directory:
 
 cd dta-sdet-aditya/test-automation
