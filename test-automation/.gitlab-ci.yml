@@ -1,0 +1,11 @@
+stages:
+  - test
+
+test:
+  stage: test
+  image: mcr.microsoft.com/playwright/java:v1.42.0-jammy
+  script:
+    - mvn clean install
+  artifacts:
+    paths:
+      - target/
